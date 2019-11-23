@@ -7,6 +7,10 @@
 [하는 직무에 뒤쳐진거 같아 불안하다면?](https://www.youtube.com/watch?v=b84k3aSfaZM)  
 [계획만 실패하고 항상 실패하는 당신에게](https://www.youtube.com/watch?v=jdxujfAz1zA)  
 
+
+
+
+
 ## Related to technology Of Coding
 [ZeroCho](https://www.zerocho.com/)  
 [우아한 형제들](http://woowabros.github.io/)  
