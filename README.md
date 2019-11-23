@@ -8,5 +8,6 @@
 [계획만 실패하고 항상 실패하는 당신에게](https://www.youtube.com/watch?v=jdxujfAz1zA)  
 
 ## Related to technology Of Coding
-[ZeroCho- 기술 블로그](https://www.zerocho.com/  
+[ZeroCho](https://www.zerocho.com/)  
 [우아한 형제들](http://woowabros.github.io/)
+[CAPTAIN PANGYO](https://joshua1988.github.io/tech/)
