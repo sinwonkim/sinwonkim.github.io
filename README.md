@@ -12,3 +12,6 @@
 [CAPTAIN PANGYO](https://joshua1988.github.io/tech/)  
 [우아한 형제들](http://woowabros.github.io/)  
 
+`public static void main(String[] args) {
+       System.out.println("Hello World"); 
+}`
