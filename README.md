@@ -1,5 +1,4 @@
 # Blog Post
 ## My First Blog Post
-* Post 1
-* Post 2
-* Post 3
+[Peter Dinklage](https://www.youtube.com/watch?v=7_ZKKOEQ4cY)  
+
