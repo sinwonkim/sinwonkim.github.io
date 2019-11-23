@@ -1,5 +1,1 @@
-# Blog Post
-## My First Blog Post
-* Post 1
-* Post 2
-* Post 3
+# It will be nothing if time passes
