@@ -12,7 +12,5 @@
 [CAPTAIN PANGYO](https://joshua1988.github.io/tech/)  
 [우아한 형제들](http://woowabros.github.io/)  
 
-<a href="index1.html" src="">aaaaa</a>
-
 ## etc 
 [TifflnTech - My experience Job Hunting after Coding Bootcamp](https://www.youtube.com/watch?v=IFUxWHnUj0k&feature=youtu.be)
