@@ -13,5 +13,5 @@
 [우아한 형제들](http://woowabros.github.io/)  
 
 ## etc 
-[TifflnTech - My experience Job Hunting after Coding Bootcamp](https://www.youtube.com/watch?v=IFUxWHnUj0k&feature=youtu.be)
+[TifflnTech - My experience Job Hunting after Coding Bootcamp](https://www.youtube.com/watch?v=IFUxWHnUj0k&feature=youtu.be)  
 [시간관리](https://brunch.co.kr/@wisesaying/21)
