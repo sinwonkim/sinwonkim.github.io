@@ -14,6 +14,7 @@
 
 ## Related to Domain knowledge
 [How Browsers work](https://d2.naver.com/helloworld/59361)  
+[HardWare](https://quasarzone.co.kr/bbs/board.php?bo_table=qf_net&wr_id=12068)  
 
 ## etc 
 [TifflnTech - My experience Job Hunting after Coding Bootcamp](https://www.youtube.com/watch?v=IFUxWHnUj0k&feature=youtu.be)  
